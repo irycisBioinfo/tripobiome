@@ -1,0 +1,149 @@
+# Pathway	75_S30_L002_R1_001_Abundance
+UNMAPPED	61319.5231570484
+UNINTEGRATED	84724.0066562331
+UNINTEGRATED|g__Ruminococcus.s__Ruminococcus_bromii	45047.0537215292
+UNINTEGRATED|unclassified	17724.3805072873
+UNINTEGRATED|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12252.3422598223
+UNINTEGRATED|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	4704.6875279908
+UNINTEGRATED|g__Roseburia.s__Roseburia_faecis	4125.6667732748
+UNINTEGRATED|g__Blautia.s__Blautia_wexlerae	667.8230415101
+TRPSYN-PWY: L-tryptophan biosynthesis	161.8183868643
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii	127.2382261681
+TRPSYN-PWY: L-tryptophan biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	13.6678342340
+PWY-7238: sucrose biosynthesis II	156.8695126383
+PWY-7238: sucrose biosynthesis II|g__Ruminococcus.s__Ruminococcus_bromii	114.4893931280
+PWY-7238: sucrose biosynthesis II|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	28.8518982908
+PWY-7238: sucrose biosynthesis II|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	7.8885204690
+PWY-6151: S-adenosyl-L-methionine salvage I	155.7888321535
+PWY-6151: S-adenosyl-L-methionine salvage I|g__Ruminococcus.s__Ruminococcus_bromii	122.2324226640
+PWY-6151: S-adenosyl-L-methionine salvage I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	11.4563049326
+PWY-6151: S-adenosyl-L-methionine salvage I|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	6.5843621399
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	150.1249892289
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|g__Ruminococcus.s__Ruminococcus_bromii	133.6638575689
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	142.4508539148
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Ruminococcus.s__Ruminococcus_bromii	112.3597855306
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	11.5572381258
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	7.3513666152
+GLUTORN-PWY: L-ornithine biosynthesis I	138.2523119105
+GLUTORN-PWY: L-ornithine biosynthesis I|g__Ruminococcus.s__Ruminococcus_bromii	123.1436134104
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	134.1166620126
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Ruminococcus.s__Ruminococcus_bromii	104.3696264630
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	13.1069907975
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	7.5203626697
+VALSYN-PWY: L-valine biosynthesis	132.6017532064
+VALSYN-PWY: L-valine biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii	114.3471602488
+VALSYN-PWY: L-valine biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.4345671763
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	131.4790101475
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Ruminococcus.s__Ruminococcus_bromii	84.6939002869
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.3664825046
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	131.4790101475
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii	84.6939002869
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.3664825046
+ARO-PWY: chorismate biosynthesis I	130.5891514635
+ARO-PWY: chorismate biosynthesis I|g__Ruminococcus.s__Ruminococcus_bromii	104.2826230469
+ARO-PWY: chorismate biosynthesis I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12.1575095976
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	127.7654902453
+NONMEVIPP-PWY: methylerythritol phosphate pathway I	118.2933065436
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|g__Ruminococcus.s__Ruminococcus_bromii	98.0896939179
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	115.8417194235
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Ruminococcus.s__Ruminococcus_bromii	73.8746275544
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.0323488045
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	104.3189354442
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)	103.0906045155
+PWY-5097: L-lysine biosynthesis VI	102.0798044694
+PWY-5097: L-lysine biosynthesis VI|g__Ruminococcus.s__Ruminococcus_bromii	65.2329748657
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	100.4816498294
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	8.2347380587
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	100.3480500886
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii	82.3480732921
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	8.0673864041
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)	98.1773735696
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Ruminococcus.s__Ruminococcus_bromii	95.2833361613
+HISTSYN-PWY: L-histidine biosynthesis	95.9291272614
+HISTSYN-PWY: L-histidine biosynthesis|g__Ruminococcus.s__Ruminococcus_bromii	78.7523487338
+PWY-6629: superpathway of L-tryptophan biosynthesis	90.6272868387
+PWY-6629: superpathway of L-tryptophan biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12.5341776754
+PWY-6700: queuosine biosynthesis I (de novo)	87.8374576287
+PWY-6700: queuosine biosynthesis I (de novo)|g__Ruminococcus.s__Ruminococcus_bromii	73.8499225010
+PWY-5941: glycogen degradation II	83.9710678566
+PWY-5941: glycogen degradation II|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	8.4517694747
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis	76.6036238016
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12.6711959997
+TRNA-CHARGING-PWY: tRNA charging	73.9532036704
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)	73.3818768355
+CALVIN-PWY: Calvin-Benson-Bassham cycle	69.1829991423
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	18.0437529425
+CALVIN-PWY: Calvin-Benson-Bassham cycle|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	10.3032471222
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)	60.3248045431
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)	59.9860764181
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12.7329990714
+PWY-1042: glycolysis IV	58.6749099184
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	51.6078810248
+PWY-3841: folate transformations II (plants)	49.9911232784
+PWY-3841: folate transformations II (plants)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.0702607159
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)	49.9770228923
+PWY-5667: CDP-diacylglycerol biosynthesis I	48.8590814747
+PWY0-1319: CDP-diacylglycerol biosynthesis II	48.8590814747
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)	45.7660050775
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	9.8793775051
+PWY-6270: isoprene biosynthesis I	45.1531110401
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I	45.0324138175
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	17.2044283938
+PWY-5686: UMP biosynthesis I	41.9094874531
+PWY-5686: UMP biosynthesis I|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	11.6299593118
+PWY-7790: UMP biosynthesis II	41.9094874531
+PWY-7790: UMP biosynthesis II|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	11.6299593118
+PWY-7791: UMP biosynthesis III	41.9094874531
+PWY-7791: UMP biosynthesis III|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	11.6299593118
+PWY-7560: methylerythritol phosphate pathway II	41.7030932236
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis	40.5677495285
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	8.6258377015
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|g__Blautia.s__Blautia_wexlerae	1.4724829744
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis	40.1838331582
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.6747273700
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	40.0432677619
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	7.2192094885
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I	39.7934520475
+PWY-5100: pyruvate fermentation to acetate and lactate II	39.7934520475
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)	39.1081010963
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	9.1791240493
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|unclassified	4.0062506434
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)	39.1081010963
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	9.1791240493
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II	32.5051950882
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	14.2908884276
+PWY-6527: stachyose degradation	31.9319440153
+PWY-6527: stachyose degradation|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	6.2927696466
+PWY-6317: D-galactose degradation I (Leloir pathway)	31.2688564523
+PWY-6609: adenine and adenosine salvage III	28.6076356805
+PWY-6609: adenine and adenosine salvage III|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	9.0702947846
+PWY-5103: L-isoleucine biosynthesis III	28.0135624723
+PWY-5103: L-isoleucine biosynthesis III|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	6.7084623015
+PWY0-1296: purine ribonucleosides degradation	26.9066734423
+PWY0-1296: purine ribonucleosides degradation|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	9.3072183703
+PWY-6897: thiamine diphosphate salvage II	26.7855327592
+PWY-6823: molybdopterin biosynthesis	22.2026860199
+PWY-6823: molybdopterin biosynthesis|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	12.9115558425
+PWY-6823: molybdopterin biosynthesis|g__Roseburia.s__Roseburia_faecis	3.3250207814
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)	19.9399571084
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)	19.3638289873
+1CMET2-PWY: folate transformations III (E. coli)	19.1553988573
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)	18.9949906481
+PWY-2942: L-lysine biosynthesis III	18.9542889613
+PWY-2941: L-lysine biosynthesis II	18.4711227729
+PWY-6731: starch degradation III	18.2408841960
+PWY-6731: starch degradation III|g__Fusicatenibacter.s__Fusicatenibacter_saccharivorans	9.0788862983
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	16.9718561032
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)	15.3855111117
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)	15.3855111117
+HSERMETANA-PWY: L-methionine biosynthesis III	14.0767778528
+PANTO-PWY: phosphopantothenate biosynthesis I	13.9094423011
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	13.0842498950
+PWY-7977: L-methionine biosynthesis IV	12.8247825639
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	12.6743059316
+PWY-7199: pyrimidine deoxyribonucleosides salvage	11.9629862705
+PWY-6892: thiazole component of thiamine diphosphate biosynthesis I	11.3925400209
+METH-ACETATE-PWY: methanogenesis from acetate	11.3778625284
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	10.5331134720
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)|g__Lachnospiraceae_unclassified.s__Eubacterium_rectale	8.4694426933
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)	9.1220710176
